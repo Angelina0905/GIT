@@ -1,1 +1,2 @@
 print("Angel")
+print("cantik")
